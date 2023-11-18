@@ -1,0 +1,37 @@
+************ First Fit **************
+
+Total memory size: 800
+
+Partitions: 100,200,50,150,300
+
+Process size: [ 158, 68, 264, 68 ]
+
+
+
+************ Best Fit **************
+
+Total memory size: 780
+
+Partitions: 150,280,50,200,100
+
+Process size: [ 45, 160, 90, 120 ]
+
+
+
+************ Worst Fit **************
+
+Total memory size: 500
+
+Partitions: 120,100,50,80,150
+
+Process size: [ 90, 50, 70, 40 ]
+
+
+
+************ Next Fit **************
+
+Total memory size: 700
+
+Partitions: 100,250,180,50,120
+
+Process size: [ 180, 100, 90, 80 ]
