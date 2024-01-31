@@ -18,7 +18,7 @@ This repository contains a Python program for visualizing various memory allocat
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/Memory-Allocation-Algorithm.git
+    git clone https://github.com/Pruthvirajsinh7/Memory-Allocation-Algorithm.git
     ```
 
 2. Navigate to the repository directory:
